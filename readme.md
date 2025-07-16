@@ -4,7 +4,7 @@ This repository implements a Proximal Policy Optimization (PPO) agent enhanced w
 
 # DEMO
 
-![](https://github.com/EricChen0104/curiosity-ppo-bipedalwalker/assets/DEMO_gif.gif)
+![](https://github.com/EricChen0104/curiosity-ppo-bipedalwalker/blob/master/assets/DEMO_gif.gif)
 
 # 🚀 Features
 
