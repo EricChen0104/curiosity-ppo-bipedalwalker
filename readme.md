@@ -70,7 +70,9 @@ The combination of PPO and ICM significantly improves early exploration and trai
 ---
 
 | Method | Final Reward | Sample Efficiency |
+
 | PPO Only | ~200 | ❌ Slow convergence |
+
 | PPO + ICM (Ours) | ~300+ | ✅ Faster and stable |
 
 ---
